@@ -17,6 +17,6 @@ If you look at the following URL (https://jsonplaceholder.typicode.com/todos) yo
  
  - Read the JSON response from the URL and calculate the number of completed
  todo items for each user.
- - Find the user that has completed the most todo items 
+ - Find the user that has completed the most todo items. I coded for more than one user as there could be a tie on max completed.
  
 [JSON Response](https://jsonplaceholder.typicode.com/todos)

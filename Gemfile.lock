@@ -6,10 +6,13 @@ GEM
       ruby2_keywords (>= 0.0.4)
     faraday-net_http (2.0.1)
     nio4r (2.5.8)
+    power_assert (2.0.1)
     puma (5.6.2)
       nio4r (~> 2.0)
     rack (2.2.3)
     ruby2_keywords (0.0.5)
+    test-unit (3.5.3)
+      power_assert
 
 PLATFORMS
   x86_64-darwin-19
@@ -18,6 +21,7 @@ DEPENDENCIES
   faraday
   puma
   rack
+  test-unit
 
 BUNDLED WITH
    2.2.22

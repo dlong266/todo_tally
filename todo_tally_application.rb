@@ -24,8 +24,6 @@ class TodoTallyApplication
     [500, {}, e.message]
   end
 
-  private
-
   def completed_items(to_do_items)
     totals = {}
     to_do_items.each do |item|

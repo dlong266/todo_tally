@@ -5,11 +5,10 @@ The requirements outlined below were implemented, and successfully working, in j
 Once the two pages were displaying the results I spent a little extra time cleaning a few things up.
 
 Because of the time allotted, I left out the following:
-1. Testing. If requested I can add those
-2. Fancy web views. My goal was to display the proper results in a quick and simple manner. Static.
+1. Testing. I do have another branch ```added_tests``` that contains a couple unit tests.
+2. Fancy web views. My goal was to display the proper results in a quick and simple manner.
 3. Rails. It seemed overkill to scaffold for a simple web view or two to display real time data.
 Also, the instructions strictly says Ruby. So I took that as not using Rails and ruby core only.
-4. ORM. Not necessary.
 
 ### Instructions:
 If you look at the following URL (https://jsonplaceholder.typicode.com/todos) you will see a response containing data that is a list of todo items. Your task is to create an
